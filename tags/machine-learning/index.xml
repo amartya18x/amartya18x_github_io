@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Machine Learning on Amartya</title>
-    <link>https://github.com/amartya18x/amartya18x.github.io/tags/machine-learning/</link>
+    <link>https://amartya18x.github.io/tags/machine-learning/</link>
     <description>Recent content in Machine Learning on Amartya</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Your Name</copyright>
     <lastBuildDate>Thu, 11 May 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/amartya18x/amartya18x.github.io/tags/machine-learning/" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/machine-learning/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Black box optimizer</title>
-      <link>https://github.com/amartya18x/amartya18x.github.io/project/blackopt/</link>
+      <link>https://amartya18x.github.io/project/blackopt/</link>
       <pubDate>Thu, 11 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/amartya18x/amartya18x.github.io/project/blackopt/</guid>
+      <guid>https://amartya18x.github.io/project/blackopt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SPALIB</title>
-      <link>https://github.com/amartya18x/amartya18x.github.io/project/spalib/</link>
+      <link>https://amartya18x.github.io/project/spalib/</link>
       <pubDate>Thu, 11 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/amartya18x/amartya18x.github.io/project/spalib/</guid>
+      <guid>https://amartya18x.github.io/project/spalib/</guid>
       <description></description>
     </item>
     

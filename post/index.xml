@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Amartya</title>
-    <link>https://github.com/amartya18x/amartya18x.github.io/post/</link>
+    <link>https://amartya18x.github.io/post/</link>
     <description>Recent content in Posts on Amartya</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Your Name</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/amartya18x/amartya18x.github.io/post/" rel="self" type="application/rss+xml" />
+    <atom:link href="/post/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>NonConvexity of neural networks</title>
-      <link>https://github.com/amartya18x/amartya18x.github.io/post/nn_nonconvex/</link>
+      <link>https://amartya18x.github.io/post/nn_nonconvex/</link>
       <pubDate>Sat, 01 Oct 2016 03:52:46 +0530</pubDate>
       
-      <guid>https://github.com/amartya18x/amartya18x.github.io/post/nn_nonconvex/</guid>
+      <guid>https://amartya18x.github.io/post/nn_nonconvex/</guid>
       <description>&lt;p&gt;I don&amp;rsquo;t remember where I heard this arguement but it was a pretty interesting one and I couldn&amp;rsquo;t remember the entire reasoning and so as I began to think about it, I figured some of it out and I believe it is pretty reasonable. We have all argued that neural networks are difficult to optimize  because they are non-convex(or non-concave) for that matter. What we don&amp;rsquo;t talk about so much is why is it that they are non-convex. It probably has simpler answers where you will argue something about the non-linearities involved. This post has to do with a much more interesting answer.&lt;/p&gt;
 
 &lt;p&gt;To understand the reasoning, we have to argue that if the function has atleast two local minimas such that their mid-point is not a local minima, the function is non-convex. In formal terms, $$\text{If }\exists x,y \in Dom(f) \hspace{5pt }s.t.\hspace{5pt} g(x) = g(y) = 0 $$ and $$\forall z\in [x,y] \text{ s.t. } g(z) \neq 0  $$ where $g(x)$ is a subgradient at $x$ the function is non-convex.&lt;/p&gt;
@@ -33,7 +33,7 @@
 &lt;p&gt;
 &lt;figure &gt;
     
-        &lt;img src=&#34;https://github.com/amartya18x/amartya18x.github.io/before.png&#34; /&gt;
+        &lt;img src=&#34;https://amartya18x.github.io/before.png&#34; /&gt;
     
     
     &lt;figcaption&gt;
@@ -59,7 +59,7 @@ For reference consider&lt;/p&gt;
 
 &lt;figure &gt;
     
-        &lt;img src=&#34;https://github.com/amartya18x/amartya18x.github.io/after.png&#34; /&gt;
+        &lt;img src=&#34;https://amartya18x.github.io/after.png&#34; /&gt;
     
     
     &lt;figcaption&gt;
@@ -95,7 +95,7 @@ $$n_{i,j} = \sum_{j = 1}^k w_{j,k}^{i-1}\sigma (n_{i-1, k})$$ where $w_{j,k}^{i-
 
 &lt;figure &gt;
     
-        &lt;img src=&#34;https://github.com/amartya18x/amartya18x.github.io/Rastrigin.png&#34; /&gt;
+        &lt;img src=&#34;https://amartya18x.github.io/Rastrigin.png&#34; /&gt;
     
     
     &lt;figcaption&gt;
@@ -150,10 +150,10 @@ What this effectively means is that if the neural network was indeed convex, the
     
     <item>
       <title>Strong Convexity and Strong Smoothness</title>
-      <link>https://github.com/amartya18x/amartya18x.github.io/post/strconvex/</link>
+      <link>https://amartya18x.github.io/post/strconvex/</link>
       <pubDate>Thu, 15 Sep 2016 23:49:40 +0530</pubDate>
       
-      <guid>https://github.com/amartya18x/amartya18x.github.io/post/strconvex/</guid>
+      <guid>https://amartya18x.github.io/post/strconvex/</guid>
       <description>
 
 &lt;p&gt;I am going to , inspired by the course on optimization that I am doing this semester, talk a bit about strong convexity and strong smoothness and our very popular &lt;strong&gt;gradient descent&lt;/strong&gt; works on them. So, before going right into the details let&amp;rsquo;s have a quick chat about convexity in general and we do have a few ways of going about it.&lt;/p&gt;
@@ -329,10 +329,10 @@ Applying Jensen&amp;rsquo;s inequality because $\Phi_t$ is convex
     
     <item>
       <title>The Cemetery of the mind!</title>
-      <link>https://github.com/amartya18x/amartya18x.github.io/post/poems/</link>
+      <link>https://amartya18x.github.io/post/poems/</link>
       <pubDate>Wed, 03 Aug 2016 22:09:00 +0530</pubDate>
       
-      <guid>https://github.com/amartya18x/amartya18x.github.io/post/poems/</guid>
+      <guid>https://amartya18x.github.io/post/poems/</guid>
       <description>
 
 &lt;h1 id=&#34;potato&#34;&gt;Potato&lt;/h1&gt;
@@ -412,11 +412,11 @@ And the rest to make some more &lt;strong&gt;Nemesis&lt;/strong&gt;&lt;/p&gt;
     
     <item>
       <title>About Me</title>
-      <link>https://github.com/amartya18x/amartya18x.github.io/post/about_me/</link>
+      <link>https://amartya18x.github.io/post/about_me/</link>
       <pubDate>Mon, 02 May 2016 17:06:56 +0530</pubDate>
       
-      <guid>https://github.com/amartya18x/amartya18x.github.io/post/about_me/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://github.com/amartya18x/amartya18x.github.io/my.jpg&#34; alt=&#34;My image&#34; /&gt;&lt;/p&gt;
+      <guid>https://amartya18x.github.io/post/about_me/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://amartya18x.github.io/my.jpg&#34; alt=&#34;My image&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;I, Amartya Sanyal, have graduated from &lt;em&gt;&lt;strong&gt;IIT Kanpur&lt;/strong&gt;&lt;/em&gt; with a B.Tech in Computer Science and Engineering and am going to join &lt;em&gt;&lt;strong&gt;The University of Oxford&lt;/strong&gt;&lt;/em&gt; from Oxford, 2017. For this position. I am going to be funded by &lt;em&gt;THe Alan Turing Institute&lt;/em&gt; during this endeavour of mine. I will be supervised by Prof. Varun Kanade and Prof. Phil Torr during the period.&lt;/p&gt;
 
