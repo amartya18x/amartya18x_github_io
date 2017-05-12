@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    
+    
+    <url>
+    
+      <loc>https://example.com/project/aom/</loc>
+      <lastmod>2017-05-11T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://example.com/project/blackopt/</loc>
+      <lastmod>2017-05-11T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://example.com/project/easygrad/</loc>
+      <lastmod>2017-05-11T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://example.com/project/nlparser/</loc>
+      <lastmod>2017-05-11T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://example.com/project/spalib/</loc>
+      <lastmod>2017-05-11T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://example.com/project/tictactoeml/</loc>
+      <lastmod>2017-05-11T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://example.com/posts/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://example.com/posts/nn_nonconvex/</loc>
+      <lastmod>2016-10-01T03:52:46+05:30</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://example.com/posts/strconvex/</loc>
+      <lastmod>2016-09-15T23:49:40+05:30</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://example.com/posts/poems/</loc>
+      <lastmod>2016-08-03T22:09:00+05:30</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://example.com/posts/about_me/</loc>
+      <lastmod>2016-05-02T17:06:56+05:30</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://example.com/project/example-external-project/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://example.com/tags/academic/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://example.com/</loc>
+      <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://example.com/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://example.com/tags/deep-learning/</loc>
+      <lastmod>2017-05-11T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://example.com/tags/demo/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://example.com/tags/machine-learning/</loc>
+      <lastmod>2017-05-11T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://example.com/tags/other/</loc>
+      <lastmod>2017-05-11T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://example.com/project/</loc>
+      <lastmod>2017-05-11T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://example.com/tags/</loc>
+      <lastmod>2017-05-11T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+</urlset>

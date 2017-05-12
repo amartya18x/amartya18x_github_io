@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deep Learning on Amartya</title>
+    <link>https://example.com/tags/deep-learning/</link>
+    <description>Recent content in Deep Learning on Amartya</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Your Name</copyright>
+    <lastBuildDate>Thu, 11 May 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/deep-learning/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Easy Gradients</title>
+      <link>https://example.com/project/easygrad/</link>
+      <pubDate>Thu, 11 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/project/easygrad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TicTacML</title>
+      <link>https://example.com/project/tictactoeml/</link>
+      <pubDate>Thu, 11 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/project/tictactoeml/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

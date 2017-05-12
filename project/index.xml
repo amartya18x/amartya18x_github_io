@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Amartya</title>
+    <link>https://example.com/project/</link>
+    <description>Recent content in Projects on Amartya</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Your Name</copyright>
+    <lastBuildDate>Thu, 11 May 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/project/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Age of Multi-Agents</title>
+      <link>https://example.com/project/aom/</link>
+      <pubDate>Thu, 11 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/project/aom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Black box optimizer</title>
+      <link>https://example.com/project/blackopt/</link>
+      <pubDate>Thu, 11 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/project/blackopt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Easy Gradients</title>
+      <link>https://example.com/project/easygrad/</link>
+      <pubDate>Thu, 11 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/project/easygrad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NLParser</title>
+      <link>https://example.com/project/nlparser/</link>
+      <pubDate>Thu, 11 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/project/nlparser/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SPALIB</title>
+      <link>https://example.com/project/spalib/</link>
+      <pubDate>Thu, 11 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/project/spalib/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TicTacML</title>
+      <link>https://example.com/project/tictactoeml/</link>
+      <pubDate>Thu, 11 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/project/tictactoeml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>External Project</title>
+      <link>https://example.com/project/example-external-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/project/example-external-project/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
