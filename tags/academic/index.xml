@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Amartya</title>
-    <link>https://example.com/tags/academic/</link>
+    <link>https://github.com/amartya18x/tags/academic/</link>
     <description>Recent content on Amartya</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Your Name</copyright>
-    <atom:link href="/tags/academic/" rel="self" type="application/rss+xml" />
+    <atom:link href="/amartya18x/tags/academic/" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>

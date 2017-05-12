@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Machine Learning on Amartya</title>
-    <link>https://example.com/tags/machine-learning/</link>
+    <link>https://github.com/amartya18x/tags/machine-learning/</link>
     <description>Recent content in Machine Learning on Amartya</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Your Name</copyright>
     <lastBuildDate>Thu, 11 May 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/machine-learning/" rel="self" type="application/rss+xml" />
+    <atom:link href="/amartya18x/tags/machine-learning/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Black box optimizer</title>
-      <link>https://example.com/project/blackopt/</link>
+      <link>https://github.com/amartya18x/project/blackopt/</link>
       <pubDate>Thu, 11 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/project/blackopt/</guid>
+      <guid>https://github.com/amartya18x/project/blackopt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SPALIB</title>
-      <link>https://example.com/project/spalib/</link>
+      <link>https://github.com/amartya18x/project/spalib/</link>
       <pubDate>Thu, 11 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/project/spalib/</guid>
+      <guid>https://github.com/amartya18x/project/spalib/</guid>
       <description></description>
     </item>
     

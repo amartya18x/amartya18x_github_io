@@ -1,68 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Amartya on Amartya</title>
-    <link>https://github.com/amartya18x/</link>
-    <description>Recent content in Amartya on Amartya</description>
+    <title>Posts on Amartya</title>
+    <link>https://github.com/amartya18x/post/</link>
+    <description>Recent content in Posts on Amartya</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Your Name</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/amartya18x/" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Age of Multi-Agents</title>
-      <link>https://github.com/amartya18x/project/aom/</link>
-      <pubDate>Thu, 11 May 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://github.com/amartya18x/project/aom/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Black box optimizer</title>
-      <link>https://github.com/amartya18x/project/blackopt/</link>
-      <pubDate>Thu, 11 May 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://github.com/amartya18x/project/blackopt/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Easy Gradients</title>
-      <link>https://github.com/amartya18x/project/easygrad/</link>
-      <pubDate>Thu, 11 May 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://github.com/amartya18x/project/easygrad/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>NLParser</title>
-      <link>https://github.com/amartya18x/project/nlparser/</link>
-      <pubDate>Thu, 11 May 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://github.com/amartya18x/project/nlparser/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SPALIB</title>
-      <link>https://github.com/amartya18x/project/spalib/</link>
-      <pubDate>Thu, 11 May 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://github.com/amartya18x/project/spalib/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>TicTacML</title>
-      <link>https://github.com/amartya18x/project/tictactoeml/</link>
-      <pubDate>Thu, 11 May 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://github.com/amartya18x/project/tictactoeml/</guid>
-      <description></description>
-    </item>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/amartya18x/post/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>NonConvexity of neural networks</title>
@@ -476,15 +422,6 @@ And the rest to make some more &lt;strong&gt;Nemesis&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;During the summers, I will be interning in the &lt;em&gt;Cortex&lt;/em&gt; group of twitter under the mentorship of Nicholas Koumchatzky, who heads the Twitter Cortex group. I will be based out of NYC and if you will be there, do drop me a mail or something.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>External Project</title>
-      <link>https://github.com/amartya18x/project/example-external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://github.com/amartya18x/project/example-external-project/</guid>
-      <description></description>
     </item>
     
   </channel>
