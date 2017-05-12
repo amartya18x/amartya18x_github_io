@@ -2,74 +2,74 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Amartya</title>
-    <link>https://github.com/amartya18x/project/</link>
+    <link>https://github.com/amartya18x/amartya18x.github.io/project/</link>
     <description>Recent content in Projects on Amartya</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Your Name</copyright>
     <lastBuildDate>Thu, 11 May 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/amartya18x/project/" rel="self" type="application/rss+xml" />
+    <atom:link href="/amartya18x/amartya18x.github.io/project/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Age of Multi-Agents</title>
-      <link>https://github.com/amartya18x/project/aom/</link>
+      <link>https://github.com/amartya18x/amartya18x.github.io/project/aom/</link>
       <pubDate>Thu, 11 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/amartya18x/project/aom/</guid>
+      <guid>https://github.com/amartya18x/amartya18x.github.io/project/aom/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Black box optimizer</title>
-      <link>https://github.com/amartya18x/project/blackopt/</link>
+      <link>https://github.com/amartya18x/amartya18x.github.io/project/blackopt/</link>
       <pubDate>Thu, 11 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/amartya18x/project/blackopt/</guid>
+      <guid>https://github.com/amartya18x/amartya18x.github.io/project/blackopt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Easy Gradients</title>
-      <link>https://github.com/amartya18x/project/easygrad/</link>
+      <link>https://github.com/amartya18x/amartya18x.github.io/project/easygrad/</link>
       <pubDate>Thu, 11 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/amartya18x/project/easygrad/</guid>
+      <guid>https://github.com/amartya18x/amartya18x.github.io/project/easygrad/</guid>
       <description></description>
     </item>
     
     <item>
       <title>NLParser</title>
-      <link>https://github.com/amartya18x/project/nlparser/</link>
+      <link>https://github.com/amartya18x/amartya18x.github.io/project/nlparser/</link>
       <pubDate>Thu, 11 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/amartya18x/project/nlparser/</guid>
+      <guid>https://github.com/amartya18x/amartya18x.github.io/project/nlparser/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SPALIB</title>
-      <link>https://github.com/amartya18x/project/spalib/</link>
+      <link>https://github.com/amartya18x/amartya18x.github.io/project/spalib/</link>
       <pubDate>Thu, 11 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/amartya18x/project/spalib/</guid>
+      <guid>https://github.com/amartya18x/amartya18x.github.io/project/spalib/</guid>
       <description></description>
     </item>
     
     <item>
       <title>TicTacML</title>
-      <link>https://github.com/amartya18x/project/tictactoeml/</link>
+      <link>https://github.com/amartya18x/amartya18x.github.io/project/tictactoeml/</link>
       <pubDate>Thu, 11 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/amartya18x/project/tictactoeml/</guid>
+      <guid>https://github.com/amartya18x/amartya18x.github.io/project/tictactoeml/</guid>
       <description></description>
     </item>
     
     <item>
       <title>External Project</title>
-      <link>https://github.com/amartya18x/project/example-external-project/</link>
+      <link>https://github.com/amartya18x/amartya18x.github.io/project/example-external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/amartya18x/project/example-external-project/</guid>
+      <guid>https://github.com/amartya18x/amartya18x.github.io/project/example-external-project/</guid>
       <description></description>
     </item>
     
