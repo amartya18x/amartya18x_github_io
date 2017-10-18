@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Amartya</title>
+    <link>https://amartya18x.github.io/publication/</link>
+    <description>Recent content in Publications on Amartya</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Your Name</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://amartya18x.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Agent based simulation of evolution of society as an alternate maximization problem</title>
+      <link>https://amartya18x.github.io/publication/agent_sim/</link>
+      <pubDate>Mon, 16 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://amartya18x.github.io/publication/agent_sim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiscale sequence modeling with a learned dictionary</title>
+      <link>https://amartya18x.github.io/publication/seg_auto/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://amartya18x.github.io/publication/seg_auto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Hybrid Deep Architecture for Face Recognition in Real-Life Scenario</title>
+      <link>https://amartya18x.github.io/publication/hybrid_face/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://amartya18x.github.io/publication/hybrid_face/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimizing Non-decomposable Measures with Deep Networks</title>
+      <link>https://amartya18x.github.io/publication/non_dec/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://amartya18x.github.io/publication/non_dec/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
