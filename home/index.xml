@@ -8,65 +8,7 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Your Name</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://amartya18x.github.io/home/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title></title>
-      <link>https://amartya18x.github.io/home/about/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://amartya18x.github.io/home/about/</guid>
-      <description>Biography I, Amartya Sanyal, have graduated from IIT Kanpur with a B.Tech in Computer Science and Engineering and am going to join The University of Oxford from Oxford, 2017. For this position. I am going to be funded by THe Alan Turing Institute during this endeavour of mine. I will be supervised by Prof. Varun Kanade and Prof. Phil Torr during the period.
-During the summers, I will be interning in the Cortex group of twitter under the mentorship of Nicholas Koumchatzky, who heads the Twitter Cortex group.</description>
-    </item>
-    
-    <item>
-      <title>Selected Publications</title>
-      <link>https://amartya18x.github.io/home/selected_publication/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
-      
-      <guid>https://amartya18x.github.io/home/selected_publication/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Recent Publications</title>
-      <link>https://amartya18x.github.io/home/publications/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
-      
-      <guid>https://amartya18x.github.io/home/publications/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Recent Posts</title>
-      <link>https://amartya18x.github.io/home/posts/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://amartya18x.github.io/home/posts/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>https://amartya18x.github.io/home/projects/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://amartya18x.github.io/home/projects/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Visits</title>
-      <link>https://amartya18x.github.io/home/intern/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://amartya18x.github.io/home/intern/</guid>
-      <description>I have had the opportunity to visit a few places and carry out my research there. Here is a list of the places and what it is that I have mainly worked on during those visits.
- Computer Vision And Pattern Recognition Unit, ISI Kolkata - A hybrid architecture for face recignition in real life scenario. Machine Learning Team, Amazon.com Worked on a competitive pricing model. Montreal Institute of Learning Algorithms Worked on a novel Multiscale Language Model with a learned dictionary.</description>
-    </item>
+    <atom:link href="/home/" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>
