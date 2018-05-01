@@ -138,18 +138,6 @@
         
 
         
-
-        <li class="nav-item">
-          <a href="/post/about_me/" data-target="/post/about_me/">
-            
-            <span>About Me</span>
-          </a>
-        </li>
-
-        
-        
-
-        
       </ul>
 
     </div>
@@ -243,9 +231,9 @@
 
 <h1 id="biography">Biography</h1>
 
-<p>I, Amartya Sanyal, have graduated from IIT Kanpur with a B.Tech in Computer Science and Engineering and am going to join <em>The University of Oxford</em> from Oxford, 2017. For this position. I am going to be funded by <em>THe Alan Turing Institute</em> during this endeavour of mine. I will be supervised by Prof. Varun Kanade and Prof. Phil Torr during the period.</p>
+<p>I am Amartya Sanyal, currently a D.Phil(PhD) student at the Department of Computer Science at the <em>University of Oxford</em> working with Prof. Varun Kanade and Prof. Phil H.S. Torr. I completed by Bachelor Of Technology in Computer Science And Engineering from the <em>Indian Institute of Technology, Kanpur</em> in 2017.</p>
 
-<p>During the summers, I will be interning in the <em>Cortex</em> group of twitter under the mentorship of Nicholas Koumchatzky, who heads the Twitter Cortex group. I will be based out of NYC and if you will be there, do drop me a mail or something.</p>
+<p>I am interested in understanding why <em>Deep Neural Networks</em>, in whatever form, perform as good as they do. My research revolves around understanding mathematical properties regarding the structures of these networks and designing and analysing optimization algorithms that can exploit their properties. In the process, I also hope to come up with some practical applications using these findings. I am also interested in Optimization and Learning Theory in general.</p>
 
 
     <div class="row">
@@ -320,6 +308,71 @@
     
 
     
+    
+      
+        <div class="pub-list-item" itemscope itemtype="http://schema.org/CreativeWork">
+  <div class="row">
+
+    
+
+    <div class="col-md-12">
+
+    
+
+      <h3 class="article-title" itemprop="name">
+        <a href="/publication/lr_layer/" itemprop="url">Low Rank Structure of Learned Representations</a>
+      </h3>
+
+      <div class="pub-abstract" itemprop="text">
+        
+        A key feature of neural networks, particularly deep convolutional neural networks, is their ability to &lsquo;learn&rsquo; useful representations from data. The very last layer of a neural network is then simply a linear model trained on these &lsquo;learned&rsquo; representations. Despite their numerous applications in other tasks such as classification, retrieval, clustering etc., a.k.a. transfer learning, not much work has been published that investigates the structure of these representations or whether structure can be imposed on them during the training process. In this paper, we study the dimensionality of the learned representations by models that have proved highly succesful for image classification. We focus on ResNet-18, ResNet-50 and VGG-19 and observe that when trained on CIFAR10 or CIFAR100 datasets, the learned representations exhibit a fairly low rank structure. We propose a modification to the training procedure, which further encourages low rank representations of activations at various stages in the neural network. Empirically, we show that this has implications for compression and robustness to adversarial examples.
+        
+      </div>
+
+      <div class="pub-authors" itemprop="author">
+        
+        Amartya Sanyal, Varun Kanade, Philip H.S. Torr
+        
+      </div>
+
+      <div class="pub-publication">
+        In submission,&nbsp;2018.
+      </div>
+
+      <div class="pub-links">
+        
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://arxiv.org/abs/1804.07090" target="_blank" rel="noopener">
+  Preprint
+</a>
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://arxiv.org/pdf/1804.07090" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      </div>
+
+    </div>
+  </div>
+</div>
+
+      
     
       
         <div class="pub-list-item" itemscope itemtype="http://schema.org/CreativeWork">
@@ -425,6 +478,71 @@
     
 
       <h3 class="article-title" itemprop="name">
+        <a href="/publication/non_dec/" itemprop="url">Optimizing Non-decomposable Measures with Deep Networks</a>
+      </h3>
+
+      <div class="pub-abstract" itemprop="text">
+        
+        We present a class of algorithms capable of directly training deep neural networks with respect to task-specific performance measures such as the F-measure and the Kullback-Leibler diver- gence that are structured and non-decomposable. This presents a departure from standard deep learning techniques that typically use squared or cross-entropy loss functions, that are decompos- able, to train the networks.
+        
+      </div>
+
+      <div class="pub-authors" itemprop="author">
+        
+        Amartya Sanyal, Purushottam Kar, Pawan Kumar, Sanjay Chawla
+        
+      </div>
+
+      <div class="pub-publication">
+        In submission,&nbsp;2017.
+      </div>
+
+      <div class="pub-links">
+        
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://arxiv.org/abs/1802.00086" target="_blank" rel="noopener">
+  Preprint
+</a>
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://arxiv.org/pdf/1802.00086" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      </div>
+
+    </div>
+  </div>
+</div>
+
+      
+    
+      
+        <div class="pub-list-item" itemscope itemtype="http://schema.org/CreativeWork">
+  <div class="row">
+
+    
+
+    <div class="col-md-12">
+
+    
+
+      <h3 class="article-title" itemprop="name">
         <a href="/publication/seg_auto/" itemprop="url">Multiscale sequence modeling with a learned dictionary</a>
       </h3>
 
@@ -463,39 +581,11 @@
 
 
 
-<a class="btn btn-primary btn-outline btn-xs" href="/" target="_blank" rel="noopener">
-  Code
-</a>
 
 
-<a class="btn btn-primary btn-outline btn-xs" href="/" target="_blank" rel="noopener">
-  Dataset
-</a>
 
 
-<a class="btn btn-primary btn-outline btn-xs" href="/">
-  Project
-</a>
 
-
-<a class="btn btn-primary btn-outline btn-xs" href="/" target="_blank" rel="noopener">
-  Poster
-</a>
-
-
-<a class="btn btn-primary btn-outline btn-xs" href="/" target="_blank" rel="noopener">
-  Slides
-</a>
-
-
-<a class="btn btn-primary btn-outline btn-xs" href="/" target="_blank" rel="noopener">
-  Video
-</a>
-
-
-<a class="btn btn-primary btn-outline btn-xs" href="/" target="_blank" rel="noopener">
-  Source Document
-</a>
 
 
 
@@ -542,10 +632,6 @@
 
 
 
-<a class="btn btn-primary btn-outline btn-xs" href="/" target="_blank" rel="noopener">
-  Preprint
-</a>
-
 
 <a class="btn btn-primary btn-outline btn-xs" href="https://link.springer.com/chapter/10.1007/978-3-319-68124-5_11" target="_blank" rel="noopener">
   PDF
@@ -556,14 +642,6 @@
 
 
 
-<a class="btn btn-primary btn-outline btn-xs" href="/" target="_blank" rel="noopener">
-  Code
-</a>
-
-
-<a class="btn btn-primary btn-outline btn-xs" href="/" target="_blank" rel="noopener">
-  Dataset
-</a>
 
 
 <a class="btn btn-primary btn-outline btn-xs" href="https://link.springer.com/chapter/10.1007/978-3-319-68124-5_11">
@@ -571,24 +649,8 @@
 </a>
 
 
-<a class="btn btn-primary btn-outline btn-xs" href="/" target="_blank" rel="noopener">
-  Poster
-</a>
 
 
-<a class="btn btn-primary btn-outline btn-xs" href="/" target="_blank" rel="noopener">
-  Slides
-</a>
-
-
-<a class="btn btn-primary btn-outline btn-xs" href="/" target="_blank" rel="noopener">
-  Video
-</a>
-
-
-<a class="btn btn-primary btn-outline btn-xs" href="/" target="_blank" rel="noopener">
-  Source Document
-</a>
 
 
 
@@ -632,6 +694,43 @@
     
 
     
+    
+      
+        <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
+  <i class="fa fa-file-text-o pub-icon" aria-hidden="true"></i>
+  <span itemprop="author">
+    Amartya Sanyal, Varun Kanade, Philip H.S. Torr</span>.
+  <a href="/publication/lr_layer/" itemprop="name">Low Rank Structure of Learned Representations</a>.
+  In submission,&nbsp;2018.
+  <p>
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://arxiv.org/abs/1804.07090" target="_blank" rel="noopener">
+  Preprint
+</a>
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://arxiv.org/pdf/1804.07090" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+</div>
+
+      
     
       
         <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
@@ -702,6 +801,43 @@
         <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
   <i class="fa fa-file-text-o pub-icon" aria-hidden="true"></i>
   <span itemprop="author">
+    Amartya Sanyal, Purushottam Kar, Pawan Kumar, Sanjay Chawla</span>.
+  <a href="/publication/non_dec/" itemprop="name">Optimizing Non-decomposable Measures with Deep Networks</a>.
+  In submission,&nbsp;2017.
+  <p>
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://arxiv.org/abs/1802.00086" target="_blank" rel="noopener">
+  Preprint
+</a>
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://arxiv.org/pdf/1802.00086" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+</div>
+
+      
+    
+      
+        <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
+  <i class="fa fa-file-text-o pub-icon" aria-hidden="true"></i>
+  <span itemprop="author">
     Bart Van Merrienboer, Amartya Sanyal, Hugo Larochelle, Yoshua Bengio</span>.
   <a href="/publication/seg_auto/" itemprop="name">Multiscale sequence modeling with a learned dictionary</a>.
   In <em>MLSLP, ICML 2017</em>,&nbsp;2017.
@@ -723,39 +859,11 @@
 
 
 
-<a class="btn btn-primary btn-outline btn-xs" href="/" target="_blank" rel="noopener">
-  Code
-</a>
 
 
-<a class="btn btn-primary btn-outline btn-xs" href="/" target="_blank" rel="noopener">
-  Dataset
-</a>
 
 
-<a class="btn btn-primary btn-outline btn-xs" href="/">
-  Project
-</a>
 
-
-<a class="btn btn-primary btn-outline btn-xs" href="/" target="_blank" rel="noopener">
-  Poster
-</a>
-
-
-<a class="btn btn-primary btn-outline btn-xs" href="/" target="_blank" rel="noopener">
-  Slides
-</a>
-
-
-<a class="btn btn-primary btn-outline btn-xs" href="/" target="_blank" rel="noopener">
-  Video
-</a>
-
-
-<a class="btn btn-primary btn-outline btn-xs" href="/" target="_blank" rel="noopener">
-  Source Document
-</a>
 
 
 </p>
@@ -774,10 +882,6 @@
 
 
 
-<a class="btn btn-primary btn-outline btn-xs" href="/" target="_blank" rel="noopener">
-  Preprint
-</a>
-
 
 <a class="btn btn-primary btn-outline btn-xs" href="https://link.springer.com/chapter/10.1007/978-3-319-68124-5_11" target="_blank" rel="noopener">
   PDF
@@ -788,14 +892,6 @@
 
 
 
-<a class="btn btn-primary btn-outline btn-xs" href="/" target="_blank" rel="noopener">
-  Code
-</a>
-
-
-<a class="btn btn-primary btn-outline btn-xs" href="/" target="_blank" rel="noopener">
-  Dataset
-</a>
 
 
 <a class="btn btn-primary btn-outline btn-xs" href="https://link.springer.com/chapter/10.1007/978-3-319-68124-5_11">
@@ -803,89 +899,8 @@
 </a>
 
 
-<a class="btn btn-primary btn-outline btn-xs" href="/" target="_blank" rel="noopener">
-  Poster
-</a>
 
 
-<a class="btn btn-primary btn-outline btn-xs" href="/" target="_blank" rel="noopener">
-  Slides
-</a>
-
-
-<a class="btn btn-primary btn-outline btn-xs" href="/" target="_blank" rel="noopener">
-  Video
-</a>
-
-
-<a class="btn btn-primary btn-outline btn-xs" href="/" target="_blank" rel="noopener">
-  Source Document
-</a>
-
-
-</p>
-</div>
-
-      
-    
-      
-        <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
-  <i class="fa fa-file-text-o pub-icon" aria-hidden="true"></i>
-  <span itemprop="author">
-    Amartya Sanyal, Purushottam Kar, Pawan Kumar, Sanjay Chawla</span>.
-  <a href="/publication/non_dec/" itemprop="name">Optimizing Non-decomposable Measures with Deep Networks</a>.
-  #,&nbsp;2013.
-  <p>
-
-
-
-<a class="btn btn-primary btn-outline btn-xs" href="/" target="_blank" rel="noopener">
-  Preprint
-</a>
-
-
-<a class="btn btn-primary btn-outline btn-xs" href="/" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-
-
-
-<a class="btn btn-primary btn-outline btn-xs" href="/" target="_blank" rel="noopener">
-  Code
-</a>
-
-
-<a class="btn btn-primary btn-outline btn-xs" href="/" target="_blank" rel="noopener">
-  Dataset
-</a>
-
-
-<a class="btn btn-primary btn-outline btn-xs" href="/">
-  Project
-</a>
-
-
-<a class="btn btn-primary btn-outline btn-xs" href="/" target="_blank" rel="noopener">
-  Poster
-</a>
-
-
-<a class="btn btn-primary btn-outline btn-xs" href="/" target="_blank" rel="noopener">
-  Slides
-</a>
-
-
-<a class="btn btn-primary btn-outline btn-xs" href="/" target="_blank" rel="noopener">
-  Video
-</a>
-
-
-<a class="btn btn-primary btn-outline btn-xs" href="/" target="_blank" rel="noopener">
-  Source Document
-</a>
 
 
 </p>
@@ -1342,71 +1357,6 @@ One fine day, there was a tug
       
 
       
-
-        
-
-        
-        
-
-        
-        
-          
-      
-
-      
-      
-        
-        
-
-<div class="article-list-item" itemscope itemprop="blogPost">
-  
-  
-  <h3 class="article-title" itemprop="name">
-    <a href="/post/about_me/" itemprop="url">About Me</a>
-  </h3>
-  
-
-<div class="article-metadata">
-
-  <span class="article-date">
-    
-    <time datetime="2016-05-02 17:06:56 &#43;0530 &#43;0530" itemprop="datePublished">
-      Mon, May 2, 2016
-    </time>
-  </span>
-
-  
-  <span class="middot-divider"></span>
-  <span class="article-reading-time">
-    1 min read
-  </span>
-  
-
-  
-  
-
-  
-
-  
-
-</div>
-
-  <div class="article-style" itemprop="articleBody">
-    
-    I, Amartya Sanyal, have graduated from IIT Kanpur with a B.Tech in Computer Science and Engineering and am going to join The University of Oxford from Oxford, 2017. For this position. I am going to be funded by THe Alan Turing Institute during this endeavour of mine. I will be supervised by Prof. Varun Kanade and Prof. Phil Torr during the period.
-During the summers, I will be interning in the Cortex group of twitter under the mentorship of Nicholas Koumchatzky, who heads the Twitter Cortex group.
-    
-  </div>
-  <p class="read-more">
-    <a href="/post/about_me/" class="btn btn-primary btn-outline">
-      CONTINUE READING
-    </a>
-  </p>
-</div>
-
-      
-
-      
     
 
   </div>
@@ -1571,29 +1521,6 @@ During the summers, I will be interning in the Cortex group of twitter under the
         </div>
       </div>
       
-      
-      
-      
-      
-      
-      
-      <div class="col-xs-12 col-sm-6 col-md-4 col-lg-6 project-item isotope-item demo">
-        <div class="card">
-          
-          <a href="http://example.org" title="" class="card-image hover-overlay"
-             target="_blank">
-            <img src="/img/boards.jpg" alt="" class="img-responsive">
-          </a>
-          
-          <div class="card-text">
-            <h4><a href="http://example.org" target="_blank">External Project</a></h4>
-            <div class="card-desription">
-              <p>An example of linking directly to an external project website using <code>external_link</code>.</p>
-            </div>
-          </div>
-        </div>
-      </div>
-      
 
     </div>
 
@@ -1621,14 +1548,29 @@ During the summers, I will be interning in the Cortex group of twitter under the
     <p>Internship</p>
   </div>
   <div class="col-xs-12 col-md-8">
-    <p>I have had the opportunity to visit a few places and carry out my research there. Here is a list of the places and what it is that I have mainly worked on during those visits.</p>
+    
+
+<p>I have had the opportunity to visit a few places and carry out my research there. Here is a list of the places I have visited.</p>
+
+<p>I am soon visiting <em>Buenos Aires</em> and <em>Stockholm</em>.</p>
+
+<h2 id="work"><strong>Work</strong></h2>
 
 <ul>
 <li><em>Computer Vision And Pattern Recognition Unit, ISI Kolkata</em> - A hybrid architecture for face recignition in real life scenario.</li>
-<li><em>Machine Learning Team, <strong>Amazon.com</strong></em> Worked on a competitive pricing model.</li>
+<li><em>Machine Learning Team, <strong>Amazon.com</strong>, Bangalore</em> Worked on a competitive pricing model.</li>
 <li><em><strong>Montreal Institute of Learning Algorithms</strong></em> Worked on a novel <em>Multiscale Language Model with a learned dictionary</em>.</li>
-<li><em><strong>Twitter</strong> Cortex</em> Worked there during the summer of 2017.</li>
+<li><em><strong>Twitter</strong> Cortex, New York</em> Worked there during the summer of 2017.</li>
 <li><em><strong>Krakow, Poland</strong></em> Visisted Krakow to attend BESC 2017 where I delivered a 30 min oral presentation.</li>
+</ul>
+
+<h2 id="not-work"><strong>Not Work</strong></h2>
+
+<ul>
+<li>Visited almost the entirety of  <strong>India</strong>.</li>
+<li>Hiked for a day in parts of Quebec around <em>Val David, Val Morin</em>.</li>
+<li>Been to <em>Copenhagen</em> with friends.</li>
+<li>Had a taste of <em>Brussels</em> as well.</li>
 </ul>
 
   </div>
