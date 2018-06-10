@@ -5,6 +5,15 @@
     
     <url>
     
+      <loc>/project/matseep/</loc>
+      <lastmod>2018-06-07T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/publication/epaas/</loc>
       <lastmod>2018-05-11T00:00:00+00:00</lastmod>
     </url>
@@ -16,24 +25,6 @@
     
       <loc>/publication/lr_layer/</loc>
       <lastmod>2018-04-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/post/boy/</loc>
-      <lastmod>2017-10-26T18:31:50+01:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/post/montreal/</loc>
-      <lastmod>2017-10-26T18:29:14+01:00</lastmod>
     </url>
     
   
@@ -185,6 +176,15 @@
     
     <url>
     
+      <loc>/post/montreal/</loc>
+      <lastmod>2016-07-26T18:29:14+01:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/tags/academic/</loc>
       <lastmod>2016-10-01T03:52:46+05:30</lastmod>
     </url>
@@ -244,7 +244,7 @@
     <url>
     
       <loc>/tags/machine-learning/</loc>
-      <lastmod>2017-05-11T00:00:00+00:00</lastmod>
+      <lastmod>2018-06-07T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -264,7 +264,7 @@
     <url>
     
       <loc>/tags/personal/</loc>
-      <lastmod>2017-10-26T18:29:14+01:00</lastmod>
+      <lastmod>2016-07-26T18:29:14+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -274,7 +274,7 @@
     <url>
     
       <loc>/tags/poetry/</loc>
-      <lastmod>2017-10-26T18:31:50+01:00</lastmod>
+      <lastmod>2016-12-26T18:31:50+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -284,7 +284,7 @@
     <url>
     
       <loc>/project/</loc>
-      <lastmod>2017-05-11T00:00:00+00:00</lastmod>
+      <lastmod>2018-06-07T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
